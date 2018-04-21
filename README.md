@@ -2,5 +2,5 @@ This is a repository for some random notebooks that I made. None of them are fin
 
 | notebook | techniques |
 |---|---|
-|[us\_unemployment](https://github.com/mcsalgado/notebooks/blob/master/usa_unemployment.ipynb)| bollinger bands |
-|[gobblet\_gobblers](https://github.com/mcsalgado/notebooks/blob/master/gobblet_gobblers.ipynb)| negamax |
+|[usa\_unemployment](https://nbviewer.jupyter.org/github/mcsalgado/notebooks/blob/master/usa_unemployment.ipynb)| bollinger bands |
+|[gobblet\_gobblers](https://nbviewer.jupyter.org/github/mcsalgado/notebooks/blob/master/gobblet_gobblers.ipynb)| negamax |
